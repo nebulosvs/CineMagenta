@@ -1,0 +1,14 @@
+prograsof\cinemagenta\vistas\EliminarPeliculaPanel.class
+prograsof\cinemagenta\controladores\ControladorMenu.class
+prograsof\cinemagenta\vistas\VerCarteleraPanel.class
+prograsof\cinemagenta\modelos\Cartelera.class
+prograsof\cinemagenta\vistas\VistaMenu.class
+prograsof\cinemagenta\interfaces\RefreshListener.class
+prograsof\cinemagenta\vistas\BuscarPeliculaPanel.class
+prograsof\cinemagenta\modelos\Pelicula.class
+prograsof\cinemagenta\vistas\ActualizarPeliculaPanel.class
+prograsof\cinemagenta\Menu.class
+prograsof\cinemagenta\vistas\BuscarPeliculaPanel$1.class
+prograsof\cinemagenta\CineMagenta.class
+prograsof\cinemagenta\vistas\AgregarPeliculaPanel.class
+prograsof\cinemagenta\controladores\DBConector.class
